@@ -24,7 +24,7 @@ Se você está interessado em saber mais sobre nosso trabalho ou deseja colabora
 
 - **Email**: contato@purplepanther.com 📧
 - **LinkedIn**: [Purple Panther](https://www.linkedin.com/company/purple-panther) 🔗
-- **Twitter**: [@PurplePantherDev](https://twitter.com/PurplePantherDev) 🐦
+- **Twitter**: [@PurpleP_Dev](https://twitter.com/PurpleP_Dev) 🐦
 
 Estamos ansiosos para ouvir de você! 🎉
 
